@@ -114,9 +114,8 @@ Model Deployment : Flask, FastAPI, REST APIs
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=F8D866&text_color=FFFFFF&ring_color=9370DB" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lavanya5454&theme=tokyonight&hide_border=true&background=0D1117&stroke=9370DB&ring=9370DB&fire=F8D866&currStreakLabel=9370DB&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=9370DB" alt="GitHub Streak"/>
 </div>
-
 
 
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
