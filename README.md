@@ -121,18 +121,15 @@ Model Deployment : Flask, FastAPI, REST APIs
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lavanya5454&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
