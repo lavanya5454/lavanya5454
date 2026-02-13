@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Lavanya%20S&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Deep+Learning+Developer+%F0%9F%94%A5;Building+Intelligent+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
-
+<div align="center">
   <img src="https://img.shields.io/badge/🎓_CGPA-8.9%2F10-success?style=for-the-badge&labelColor=1a1a2e&color=16213e" alt="CGPA"/>
   <img src="https://img.shields.io/badge/📍_Location-Bengaluru%2C%20India-orange?style=for-the-badge&labelColor=1a1a2e&color=e94560" alt="Location"/>
   <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=1a1a2e&color=06d6a0" alt="Status"/>
