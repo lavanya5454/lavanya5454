@@ -39,9 +39,12 @@
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-  <em>Passionate AI and Data Science Engineer with hands-on experience in building end-to-end ML solutions.</em><br/>
-  <em>Specializing in developing intelligent systems that solve real-world problems.</em><br/>
-  <em>Currently focused on AI-powered cybersecurity and advanced Deep Learning.</em>
+  <b>Final-year AI & Data Science Engineer</b> with a proven track record in developing production-ready ML solutions<br/>
+  🏆 <b>Award-winning projects</b> in cybersecurity and predictive analytics<br/>
+  💼 Experienced in building <b>end-to-end ML pipelines</b> from data preprocessing to deployment<br/>
+  🎯 Specialized in <b>Machine Learning, Deep Learning, and NLP</b> applications<br/>
+  📊 Delivered solutions with <b>88-98% accuracy</b> across multiple domains<br/>
+  🚀 Ready to leverage AI/ML expertise to drive innovation and solve complex business challenges
 </p>
 
 <br/>
