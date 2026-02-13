@@ -155,11 +155,6 @@ Model Deployment : Flask, FastAPI, REST APIs
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavanya5454&label=Profile%20Views&color=9370DB&style=for-the-badge" alt="Profile views"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer" />
