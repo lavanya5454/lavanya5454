@@ -1,230 +1,327 @@
-# Lavanya S
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Lavanya+S;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
 
-**AI & Data Science Engineer** | Final Year B.E. Student (CGPA: 8.9/10)  
-🎓 Specializing in Machine Learning, Deep Learning & Natural Language Processing
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Engineer-blueviolet?style=for-the-badge" alt="Role"/>
+  <img src="https://img.shields.io/badge/CGPA-8.9%2F10-success?style=for-the-badge" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/1lavanya/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://lavanyas1.netlify.app) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:lavanya7055@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bengaluru)
+<div align="center">
+  <a href="https://www.linkedin.com/in/1lavanya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lavanyas1.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:lavanya7055@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/lavanya5454">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
----
+<br/>
 
-## 👋 About Me
-
-I'm a passionate AI and Data Science engineer with hands-on experience in building end-to-end machine learning solutions. My expertise lies in developing intelligent systems that solve real-world problems, from cybersecurity applications to predictive analytics.
-
-**What I'm Currently Doing:**
-- 🔭 Building AI-powered cybersecurity defense systems
-- 🌱 Exploring advanced Deep Learning architectures and Generative AI
-- 👯 Open to collaborations on impactful ML/AI projects
-- 💡 Transforming raw data into actionable intelligence
-
-**What I'm Passionate About:**
-- Applying machine learning to solve real-world challenges
-- Developing end-to-end ML pipelines from data preprocessing to deployment
-- Working on NLP and computer vision applications
-- Contributing to open-source AI projects
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Machine Learning & Deep Learning
-- **Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn
-- **Algorithms:** Random Forest, LightGBM, Ridge Regression, LSTM, CNN, ANN
-- **Techniques:** Supervised Learning, Unsupervised Learning, Feature Engineering
-
-### Natural Language Processing
-- **Libraries:** NLTK, Spacy, Transformers, Hugging Face
-- **Techniques:** Text Classification, Named Entity Recognition, Sentiment Analysis, TF-IDF
-
-### Data Science & Visualization
-- **Analysis:** Pandas, NumPy, Exploratory Data Analysis, Data Cleaning
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Skills:** Statistical Analysis, Data Preprocessing, Feature Selection
-
-### Web Frameworks & Deployment
-- **Frameworks:** Flask, FastAPI, Streamlit
-- **Tools:** Git/GitHub, Docker, REST APIs
-
-### Computer Vision
-- OpenCV, MediaPipe, Image Processing
-
-### Development Tools
-- VS Code, PyCharm, Jupyter Notebook, Google Colab, Spyder
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavanya5454&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### Data Science Intern | **Mevi Technology**
-*September 2024 – December 2024 | Remote, Bengaluru*
+## 🚀 About Me
 
-- Built predictive analytics solutions addressing business optimization challenges and improving decision-making processes
-- Designed and implemented end-to-end ML pipelines using Python, scikit-learn, NumPy, and Pandas
-- Worked across 10+ diverse datasets implementing classification, clustering, and regression tasks
-- Delivered data-driven models that provided actionable insights for operational efficiency
+I'm a **passionate AI and Data Science Engineer** with hands-on experience in building end-to-end machine learning solutions. I love transforming complex data into intelligent systems that solve real-world problems!
 
-**Key Achievement:** Successfully deployed multiple ML models that enhanced business intelligence capabilities
+### 🔭 What I'm Currently Working On
+- Building **AI-powered cybersecurity** defense systems
+- Exploring **advanced Deep Learning** architectures
+- Developing **NLP applications** for text analysis
 
-### Green Skills & AI Intern | **Edunet-Shell**
-*July 2025 – August 2025 | Remote, Bengaluru*
+### 🌱 What I'm Learning
+- Generative AI and Large Language Models
+- Advanced Neural Network Architectures
+- MLOps and Model Deployment at Scale
 
-- Engineered an EV Charging Demand Prediction system to optimize electric vehicle infrastructure planning
-- Implemented Random Forest and LSTM algorithms on 12,000+ charging records across 23 features
-- Achieved 88% prediction accuracy enabling data-driven charging station placement decisions
-- Contributed to sustainable transportation solutions through advanced machine learning modeling
+### 👯 Looking to Collaborate On
+- Innovative **ML/AI projects**
+- Open-source contributions
+- Research in **Computer Vision** and **NLP**
 
-**Key Achievement:** Reduced charging station deployment costs through optimized placement predictions
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ PhishNet - AI-based Phishing Website Detection
-**🏆 Winner - Project Exhibition 2025-26 | 🥉 3rd Place @ IEEE CMRIT National Competition**
-
-A comprehensive real-time phishing detection system that protects users from malicious websites.
-
-**What I Built:**
-- End-to-end ML pipeline using Python and LightGBM to classify URLs as legitimate or malicious
-- Custom Chrome extension that monitors browsing activity and delivers instant security alerts
-- Feature engineering pipeline extracting URL characteristics for improved classification accuracy
-- RESTful API using FastAPI for seamless integration with the browser extension
-
-**Impact:** Real-time protection for users with instant threat detection and alerting
-
-**Technologies:** Python, FastAPI, LightGBM, Scikit-learn, JavaScript, Chrome Extension APIs, Git
-
----
-
-### 📄 Resume Parser & Analysis System
-
-An intelligent web application for automated resume analysis and candidate profiling.
-
-**What I Built:**
-- NLP-powered system to extract key information from PDF and TXT resume files
-- Automatic category classification engine for resume categorization
-- Job recommendation system using machine learning algorithms
-- Skills extraction and candidate matching pipeline
-
-**Impact:** Streamlined recruitment process through automated resume screening and analysis
-
-**Technologies:** Python, Flask, Scikit-learn, PyPDF2, Random Forest, NLTK, Spacy, TF-IDF, Git
-
----
-
-### 🔥 Algerian Forest Fire Detection
-
-Machine learning system for environmental risk assessment and fire prediction.
-
-**What I Built:**
-- Predictive model achieving 98.45% accuracy using Ridge Regression
-- Data processing pipeline for meteorological data and Fire Weather Indices (FWI)
-- Interactive analytics dashboard for instant fire risk predictions and regional comparisons
-- Risk categorization system for different threat levels
-
-**Impact:** Enabled proactive fire prevention through accurate risk prediction and regional analysis
-
-**Technologies:** Python, Scikit-learn, NumPy, Plotly, Flask, Regression Analysis, Git
-
----
-
-### ⚡ EV Charging Demand Predictor
-
-Green energy infrastructure optimization system for electric vehicle charging stations.
-
-**What I Built:**
-- Demand prediction system using Random Forest and LSTM neural networks
-- Time-series analysis on 12,000+ charging records
-- Feature engineering across 23 different variables
-- Visualization dashboard for demand patterns and predictions
-
-**Impact:** Optimized charging station placement reducing infrastructure costs by enabling data-driven decisions
-
-**Technologies:** Python, TensorFlow, Scikit-learn, Pandas, LSTM, Random Forest
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Artificial Intelligence & Data Science (Honours)**  
-KS School of Engineering and Management, Bengaluru  
-*November 2022 – May 2026*  
-**CGPA:** 8.9/10
-
-**Relevant Coursework:**
-- Machine Learning & Deep Learning
+### 💡 Core Expertise
+- End-to-end ML pipeline development
 - Natural Language Processing
-- Data Structures & Algorithms
-- Database Management Systems
-- Computer Vision
-- Statistical Analysis
+- Deep Learning & Neural Networks
+- Data Analysis & Visualization
+
+<br clear="right"/>
 
 ---
 
-## 📄 Publications & Research
-
-**Comparative Analysis of AI-Based Phishing Website Detection**  
-*2nd International Symposium on Collaborative Informatics (ISCI-2025)*  
-December 2025
-
-- Conducted comprehensive survey evaluating AI model performance in cybersecurity applications
-- Research focused on minimizing false positives in phishing detection systems
-- Analyzed multiple machine learning algorithms for threat classification
-- Presented findings at international symposium
-
----
-
-## 🏆 Achievements & Recognition
-
-- **🥇 Project Exhibition Winner:** Led winning team in Inter-department Project Exhibition 2025-26
-- **🥉 3rd Place @ IEEE CMRIT:** National Level Project Expo recognition
-- **👥 Team Leadership:** Successfully led 4-member team in HACKATHON-24
-- **🎨 Design Leadership:** Led team for UI/UX Design-Verse competition
-- **📝 Project Lead:** Served as Mini & Major Project Lead, coordinating cross-functional development teams
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavanya5454&theme=default&hide_border=true)
+### 🤖 ML/DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&theme=default&hide_border=true)
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🌐 Web & APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+## 💼 Professional Experience
 
-I'm always interested in collaborating on innovative AI/ML projects, discussing data science challenges, or exploring new opportunities in the field of artificial intelligence.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**How to reach me:**
-- 📧 **Email:** lavanya7055@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/1lavanya](https://www.linkedin.com/in/1lavanya/)
-- 🌐 **Portfolio:** [lavanyas1.netlify.app](https://lavanyas1.netlify.app)
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 💻 **GitHub:** [github.com/lavanya5454](https://github.com/lavanya5454)
+### 💻 Data Science Intern
+<img src="https://img.shields.io/badge/Mevi_Technology-2024-blue?style=flat-square" alt="Company"/>
+
+**📅 Sep 2024 - Dec 2024**
+
+- 📊 Built predictive analytics solutions for business optimization
+- 🔄 Designed end-to-end ML pipelines across **10+ datasets**
+- 🎯 Implemented classification, clustering, and regression models
+- 💡 Delivered actionable insights through data-driven models
+
+**Key Achievement:** ⭐ Enhanced business intelligence capabilities
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Green Skills & AI Intern
+<img src="https://img.shields.io/badge/Edunet_Shell-2025-green?style=flat-square" alt="Company"/>
+
+**📅 Jul 2025 - Aug 2025**
+
+- ⚡ Engineered **EV Charging Demand Prediction** system
+- 🎯 Achieved **88% prediction accuracy** on 12K+ records
+- 🚗 Optimized EV infrastructure planning
+- 🌍 Contributed to sustainable transportation solutions
+
+**Key Achievement:** ⭐ Reduced deployment costs through optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🛡️ PhishNet - AI-based Phishing Detection
+**🏆 Winner - Project Exhibition 2025-26 | 🥉 3rd Place @ IEEE CMRIT**
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/Accuracy-High-brightgreen?style=flat-square" alt="Accuracy"/>
+
+</div>
+
+> Real-time phishing detection system protecting users from malicious websites
+
+**🎯 What I Built:**
+- ⚙️ End-to-end ML pipeline using **LightGBM** for URL classification
+- 🔌 Custom **Chrome extension** with real-time monitoring
+- 🚨 Instant security alerts for malicious websites
+- 🔗 RESTful API using **FastAPI** for seamless integration
+
+**💥 Impact:** Real-time protection with instant threat detection
+
+**🔧 Tech Stack:** `Python` `FastAPI` `LightGBM` `Scikit-learn` `JavaScript` `Chrome APIs`
 
 ---
 
 <div align="center">
 
-### 💡 "Transforming data into intelligent solutions that make a real-world impact"
+### 📄 Resume Parser & Analysis System
 
-![Profile Views](https://komarev.com/ghpvc/?username=lavanya5454&color=blue&style=flat)
+<img src="https://img.shields.io/badge/Category-NLP-blue?style=flat-square" alt="Category"/>
+<img src="https://img.shields.io/badge/Type-Web_App-orange?style=flat-square" alt="Type"/>
 
-*Last Updated: February 2026*
+</div>
+
+> Intelligent resume analysis with automatic categorization and job recommendations
+
+**🎯 What I Built:**
+- 📝 NLP-powered information extraction from PDF/TXT files
+- 🏷️ Automatic category classification engine
+- 💼 Job recommendation system using ML
+- 🔍 Skills extraction and candidate matching
+
+**💥 Impact:** Streamlined recruitment through automated screening
+
+**🔧 Tech Stack:** `Flask` `Random Forest` `NLTK` `Spacy` `TF-IDF` `PyPDF2`
+
+---
+
+<div align="center">
+
+### 🔥 Algerian Forest Fire Detection
+
+<img src="https://img.shields.io/badge/Accuracy-98.45%25-success?style=flat-square" alt="Accuracy"/>
+<img src="https://img.shields.io/badge/Model-Ridge_Regression-red?style=flat-square" alt="Model"/>
+
+</div>
+
+> ML system for environmental risk assessment and fire prediction
+
+**🎯 What I Built:**
+- 📈 Predictive model with **98.45% accuracy**
+- 🌡️ Meteorological data processing pipeline
+- 📊 Interactive analytics dashboard
+- 🗺️ Regional risk comparison system
+
+**💥 Impact:** Proactive fire prevention through accurate predictions
+
+**🔧 Tech Stack:** `Scikit-learn` `Plotly` `Flask` `NumPy` `Ridge Regression`
+
+---
+
+<div align="center">
+
+### ⚡ EV Charging Demand Predictor
+
+<img src="https://img.shields.io/badge/Accuracy-88%25-brightgreen?style=flat-square" alt="Accuracy"/>
+<img src="https://img.shields.io/badge/Records-12K%2B-blue?style=flat-square" alt="Records"/>
+
+</div>
+
+> Green energy infrastructure optimization for electric vehicles
+
+**🎯 What I Built:**
+- 🔮 Demand prediction using **Random Forest & LSTM**
+- ⏱️ Time-series analysis on 12,000+ records
+- 📊 Feature engineering across 23 variables
+- 📈 Visualization dashboard for demand patterns
+
+**💥 Impact:** Optimized charging station placement reducing costs
+
+**🔧 Tech Stack:** `TensorFlow` `Scikit-learn` `Pandas` `LSTM` `Random Forest`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lavanya5454&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanya5454&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### Bachelor of Engineering in AI & Data Science (Honours)
+
+**🏫 KS School of Engineering and Management, Bengaluru**
+
+<img src="https://img.shields.io/badge/CGPA-8.9%2F10-success?style=for-the-badge" alt="CGPA"/>
+<img src="https://img.shields.io/badge/Duration-2022--2026-blue?style=for-the-badge" alt="Duration"/>
+
+**📚 Key Coursework:** Machine Learning • Deep Learning • NLP • Computer Vision • Data Structures • DBMS
+
+</div>
+
+---
+
+## 📄 Research & Publications
+
+<div align="center">
+
+### 📑 Comparative Analysis of AI-Based Phishing Website Detection
+
+**2nd International Symposium on Collaborative Informatics (ISCI-2025)**
+
+<img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" alt="Published"/>
+<img src="https://img.shields.io/badge/Date-December_2025-blue?style=flat-square" alt="Date"/>
+
+</div>
+
+- 🔬 Comprehensive survey on AI models in cybersecurity
+- 🎯 Focus on minimizing false positives in phishing detection
+- 📊 Analyzed multiple ML algorithms for threat classification
+- 🎤 Presented at international symposium
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🎖️ Achievement | 📋 Details |
+|:---|:---|
+| 🥇 **Project Exhibition Winner** | Led winning team in Inter-department Exhibition 2025-26 |
+| 🥉 **3rd Place @ IEEE CMRIT** | National Level Project Expo Recognition |
+| 👥 **Team Leadership** | Successfully led 4-member team in HACKATHON-24 |
+| 🎨 **Design Leadership** | Led team for UI/UX Design-Verse competition |
+| 📝 **Project Lead** | Mini & Major Project Lead role |
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💬 I'm always excited to collaborate on innovative projects!
+
+<a href="mailto:lavanya7055@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/1lavanya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://lavanyas1.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/lavanya5454">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💭 *"Transforming data into intelligent solutions that make a real-world impact"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" alt="Footer"/>
 
 </div>
