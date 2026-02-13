@@ -1,284 +1,236 @@
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██╗      █████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗    ║
+║   ██║     ██╔══██╗██║   ██║██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗   ║
+║   ██║     ███████║██║   ██║███████║██╔██╗ ██║ ╚████╔╝ ███████║   ║
+║   ██║     ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║   ║
+║   ███████╗██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║   ██║   ██║  ██║   ║
+║   ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ║
+║                                                               ║
+║           [ AI ENGINEER • ML ARCHITECT • DATA SCIENTIST ]     ║
+║           [ CYBERSECURITY RESEARCHER • NLP SPECIALIST ]       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  
-# 👋 Hi, I'm Lavanya S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Developer;NLP+Specialist;Full+Stack+ML+Developer" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lavanya5454&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/lavanya5454?label=Followers&style=social" alt="followers" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=INITIALIZING+NEURAL+NETWORKS...;TRAINING+DEEP+LEARNING+MODELS...;PARSING+NATURAL+LANGUAGE...;DETECTING+THREATS+IN+REAL-TIME...;OPTIMIZING+ML+PIPELINES...;STATUS%3A+ONLINE+%E2%96%88)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### `> SYSTEM_STATUS`
 
 ```python
-class LavanyaS:
-    def __init__(self):
-        self.name = "Lavanya S"
-        self.role = "AI & Data Science Engineer"
-        self.education = "B.E. in AI & Data Science (CGPA: 8.9/10)"
-        self.location = "Bengaluru, Karnataka, India"
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
-        
-    def current_focus(self):
-        return {
-            "🔭 Working on": "AI-based Cybersecurity Solutions",
-            "🌱 Learning": "Advanced Deep Learning & GenAI",
-            "👯 Looking to": "Collaborate on ML/AI projects",
-            "💬 Ask me about": "Python, ML, DL, NLP, Data Science",
-            "⚡ Fun fact": "I turn coffee into code and data into insights!"
-        }
-```
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1lavanya/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanya5454)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lavanyas1.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanya7055@gmail.com)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=seaborn&logoColor=white)
-
-### Web Frameworks & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Data Science Intern
-**Mevi Technology** | Sep 2024 - Dec 2024
-
-- 📊 Built predictive analytics solutions for business optimization
-- 🔄 Designed end-to-end ML pipelines across 10+ datasets
-- 🎯 Implemented classification, clustering, and regression models
-
-</td>
-<td width="50%">
-
-### 🌱 Green Skills & AI Intern
-**Edunet-Shell** | Jul 2025 - Aug 2025
-
-- ⚡ Engineered EV Charging Demand Prediction system
-- 🎯 Achieved 88% prediction accuracy on 12K+ records
-- 🚗 Enabled data-driven infrastructure planning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ PhishNet
-**AI-based Phishing Detection**
-
-🏆 **WINNER - Project Exhibition 2025-26**  
-🥉 **3rd Place @ IEEE CMRIT**
-
-- Real-time URL classification using LightGBM
-- Custom Chrome extension for browsing protection
-- End-to-end cybersecurity solution
-
-**Tech:** Python, FastAPI, LightGBM, JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume Parser & Analysis
-**Intelligent Resume Analyzer**
-
-- Automatic category classification
-- Job recommendations engine
-- PDF/TXT information extraction
-
-**Tech:** Flask, Random Forest, NLTK, Spacy, TF-IDF
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Forest Fire Detection
-**ML-based Fire Prediction System**
-
-- 98.45% accuracy with Ridge Regression
-- Interactive risk analytics dashboard
-- Regional fire risk comparisons
-
-**Tech:** Scikit-learn, Plotly, Flask
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 EV Charging Predictor
-**Green Energy Infrastructure**
-
-- 88% prediction accuracy
-- Random Forest & LSTM models
-- Sustainable transportation planning
-
-**Tech:** TensorFlow, Scikit-learn, Pandas
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavanya5454&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-[![Lavanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavanya5454&theme=tokyo-night&hide_border=true)](https://github.com/lavanya5454)
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🥇 HACKATHON-24 Lead] --> B[🎨 UI/UX Design-Verse Lead]
-    B --> C[🏆 Project Exhibition Winner]
-    C --> D[🥉 3rd @ IEEE CMRIT]
-    D --> E[📄 Published @ ISCI-2025]
+class Operative:
+    codename = "LAVANYA_S"
+    clearance_level = "AI_DATA_SCIENCE_ENGINEER"
+    location = "BENGALURU_NODE"
+    mission_objective = "TRANSFORM_DATA_INTO_INTELLIGENCE"
     
-    style A fill:#FFD700
-    style B fill:#C0C0C0
-    style C fill:#CD7F32
-    style D fill:#87CEEB
-    style E fill:#98FB98
+    expertise = {
+        "neural_warfare": ["Deep Learning", "CNNs", "RNNs", "LSTM"],
+        "pattern_recognition": ["Machine Learning", "Random Forest", "LightGBM"],
+        "linguistic_analysis": ["NLP", "NLTK", "Transformers", "Spacy"],
+        "data_ops": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
+        "cyber_defense": ["Phishing Detection", "Threat Analysis"]
+    }
+    
+    active_operations = [
+        "PhishNet: Real-time URL threat classification",
+        "Resume Intelligence: Automated profiling system",
+        "Fire Prediction: Environmental risk assessment"
+    ]
 ```
-
-</div>
-
-| Achievement | Details |
-|------------|---------|
-| 🥇 **Leadership** | Led 4-member team in HACKATHON-24 & UI/UX Design-Verse |
-| 📝 **Project Lead** | Mini & Major Project Lead |
-| 🏆 **Winner** | Inter-department Project Exhibition 2025-26 |
-| 🥉 **3rd Place** | IEEE CMRIT & National Level Project Expo |
-| 📄 **Publication** | Research paper @ ISCI-2025 on AI-based Phishing Detection |
 
 ---
 
-## 📜 Certifications
+### `> ACCESS_POINTS`
+
+```bash
+$ connect --secure-channels
+```
+
+[![SECURE_MAIL](https://img.shields.io/badge/SECURE_MAIL-lavanya7055%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:lavanya7055@gmail.com)
+[![NETWORK_NODE](https://img.shields.io/badge/NETWORK_NODE-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/1lavanya/)
+[![MAINFRAME](https://img.shields.io/badge/MAINFRAME-Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=00FF00)](https://lavanyas1.netlify.app)
+[![CODE_VAULT](https://img.shields.io/badge/CODE_VAULT-GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/lavanya5454)
+
+---
+
+### `> ARSENAL`
+
+```
+┌─[ PROGRAMMING_CORES ]
+├─> Python █████████████████████ 95%
+├─> SQL ██████████████████░░░░░ 85%
+└─> JavaScript ███████████░░░░░░░░░░ 60%
+
+┌─[ NEURAL_FRAMEWORKS ]
+├─> TensorFlow ███████████████████ 90%
+├─> PyTorch ██████████████████░░ 88%
+├─> Scikit-learn █████████████████████ 95%
+└─> Keras ████████████████░░░░ 80%
+
+┌─[ DATA_WEAPONS ]
+├─> Pandas █████████████████████ 98%
+├─> NumPy ████████████████████░ 92%
+├─> Matplotlib ████████████████░░░░ 85%
+└─> Plotly ██████████████████░░ 87%
+
+┌─[ DEPLOYMENT_SYSTEMS ]
+├─> Flask ████████████████░░░░ 80%
+├─> FastAPI ███████████████░░░░░ 78%
+└─> Streamlit ██████████████████░░ 85%
+
+┌─[ SPECIALIZED_TOOLS ]
+├─> NLTK • Spacy • Transformers • Hugging Face
+├─> OpenCV • MediaPipe • Computer Vision
+└─> Git • Docker • VS Code • Jupyter
+```
+
+---
+
+### `> CLASSIFIED_OPERATIONS`
+
+#### **[OPERATION_PHISHNET]** `STATUS: MISSION_SUCCESS`
+```diff
++ OBJECTIVE: Neutralize phishing threats in real-time
++ METHOD: LightGBM classification + Chrome extension deployment
++ RESULT: 🏆 Winner Project Exhibition 2025-26 | 3rd Place IEEE CMRIT
+! THREAT_LEVEL: Real-time URL scanning and instant alerts
+```
+**TECH_STACK:** `Python` `FastAPI` `LightGBM` `JavaScript` `Chrome_APIs`
+
+---
+
+#### **[OPERATION_RESUME_INTEL]** `STATUS: ACTIVE`
+```diff
++ OBJECTIVE: Automated intelligence extraction from personnel files
++ METHOD: NLP-powered parsing with ML classification
+! CAPABILITIES: Category detection • Job matching • Data extraction
+```
+**TECH_STACK:** `Flask` `Random_Forest` `NLTK` `Spacy` `PyPDF2`
+
+---
+
+#### **[OPERATION_FIREWATCH]** `STATUS: OPERATIONAL`
+```diff
++ OBJECTIVE: Predict environmental fire threats
++ METHOD: Ridge Regression with 98.45% accuracy
+! COVERAGE: Real-time risk assessment • Regional analysis
+```
+**TECH_STACK:** `Scikit-learn` `Plotly` `Flask` `NumPy`
+
+---
+
+### `> FIELD_EXPERIENCE`
+
+```
+[INFILTRATION_RECORD]
+
+🔹 MEVI_TECHNOLOGY_DIVISION
+   ├─ Duration: SEP.2024 - DEC.2024
+   ├─ Role: Data_Science_Operative
+   ├─ Missions: 10+ datasets compromised
+   └─ Impact: Predictive analytics deployment
+
+🔹 EDUNET_SHELL_ALLIANCE
+   ├─ Duration: JUL.2025 - AUG.2025
+   ├─ Role: Green_AI_Specialist
+   ├─ Achievement: 88% prediction accuracy
+   └─ Impact: EV infrastructure optimization
+```
+
+---
+
+### `> SYSTEM_METRICS`
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=lavanya5454&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lavanya5454&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&dates=00FF00&sideLabels=00FF00)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00)
+
+</div>
+
+---
+
+### `> ACHIEVEMENT_LOG`
+
+```yaml
+CLEARANCE_UPGRADES:
+  - designation: HACKATHON-24 Squad Leader
+    status: COMPLETED
+  
+  - designation: UI/UX Design-Verse Commander
+    status: COMPLETED
+  
+  - designation: Project Exhibition Champion
+    status: VICTORY_CONFIRMED
+  
+  - designation: IEEE CMRIT 3rd Position
+    status: MEDAL_ACQUIRED
+  
+  - designation: Research Publication ISCI-2025
+    status: PUBLISHED
+    classification: "AI-based Phishing Detection Analysis"
+```
+
+---
+
+### `> CERTIFICATION_VAULT`
 
 <details>
-<summary>Click to expand certifications! 🎓</summary>
+<summary><code>[ CLICK_TO_DECRYPT_CREDENTIALS ]</code></summary>
 
-- ✅ **Infosys Springboard** - Python Foundation
-- ✅ **Mevi Technology** - Data Analytics using Python
-- ✅ **Microsoft | TechSaksham** - Applied AI Practical Implementation
-- ✅ **Nasscom** - Generative AI Literacy
-- ✅ **Cisco** - Data Analytics Essentials
-- ✅ **Coursera** - Fundamentals of CNNs and RNNs
-- ✅ **Udemy** - Natural Language Processing
-- ✅ **Ditto** - Building next-Gen AI Agents
-- ✅ **Data Flair** - Introduction to Machine Learning
+```
+✓ INFOSYS_SPRINGBOARD .............. Python Foundation
+✓ MEVI_TECHNOLOGY .................. Data Analytics [Python]
+✓ MICROSOFT_TECHSAKSHAM ............ Applied AI Implementation
+✓ NASSCOM .......................... Generative AI Literacy
+✓ CISCO ............................ Data Analytics Essentials
+✓ COURSERA ......................... CNNs & RNNs Fundamentals
+✓ UDEMY ............................ Natural Language Processing
+✓ DITTO ............................ Next-Gen AI Agents
+✓ DATAFLAIR ........................ Machine Learning Intro
+```
 
 </details>
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
+### `> CURRENT_MISSION`
 
 ```
-🔭 Building AI-powered cybersecurity solutions
-🌱 Exploring Advanced Deep Learning & Generative AI
-👯 Open to collaborations on ML/AI projects
-💡 Transforming data into intelligent, real-world solutions
-```
+[PRIMARY_OBJECTIVES]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▸ Building AI-powered cybersecurity defense systems
+▸ Researching advanced Deep Learning architectures
+▸ Developing intelligent threat detection algorithms
+▸ Open to collaboration on high-impact ML/AI missions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</div>
+[MISSION_STATEMENT]
+> "Transforming raw data into weaponized intelligence"
+```
 
 ---
 
-## 📬 Get In Touch
+```
+┌──(lavanya@ai-terminal)─[~]
+└─$ echo "Thanks for visiting. Stay secure. Stay curious."
+
+█▓▒░ END_TRANSMISSION ░▒▓█
+```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-lavanya7055%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lavanya7055@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://lavanyas1.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/1lavanya/)
-
-### 💭 *"Passionate about turning data into actionable insights that make a difference!"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=lavanya5454&color=00FF00&style=flat-square&label=SURVEILLANCE_COUNTER)
 
 </div>
