@@ -36,12 +36,12 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
-  <em>Passionate AI and Data Science Engineer with hands-on experience in building end-to-end ML solutions</em><br/>
-  <em>Specializing in developing intelligent systems that solve real-world problems</em><br/>
-  <em>Currently focused on AI-powered cybersecurity and advanced Deep Learning</em>
+  <em>Passionate AI and Data Science Engineer with hands-on experience in building end-to-end ML solutions.</em><br/>
+  <em>Specializing in developing intelligent systems that solve real-world problems.</em><br/>
+  <em>Currently focused on AI-powered cybersecurity and advanced Deep Learning.</em>
 </p>
 
 <br/>
