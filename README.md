@@ -38,7 +38,7 @@
 
 <h2 align="center"> About Me</h2>
 
-<p align="center">
+
   <b>Final-year AI & Data Science Engineer</b> with a proven track record in developing production-ready ML solutions<br/>
   🏆 <b>Award-winning projects</b> in cybersecurity and predictive analytics<br/>
   💼 Experienced in building <b>end-to-end ML pipelines</b> from data preprocessing to deployment<br/>
