@@ -53,7 +53,6 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<div align="center">
 
 ### 💻 Languages & Core Frameworks
 
