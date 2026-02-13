@@ -59,91 +59,6 @@ I'm a passionate AI and Data Science Engineer with hands-on experience in buildi
 
 ---
 
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Data Science Intern
-**Mevi Technology** | Sep 2024 - Dec 2024
-
-- Built predictive analytics solutions for business optimization
-- Designed end-to-end ML pipelines across **10+ datasets**
-- Implemented classification, clustering, and regression models
-- Delivered actionable insights through data-driven models
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Green Skills & AI Intern
-**Edunet-Shell** | Jul 2025 - Aug 2025
-
-- Engineered **EV Charging Demand Prediction** system
-- Achieved **88% prediction accuracy** on 12K+ records
-- Optimized EV infrastructure planning
-- Contributed to sustainable transportation solutions
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
-### 🛡️ PhishNet - AI-based Phishing Detection
-**🏆 Winner - Project Exhibition 2025-26 | 🥉 3rd Place @ IEEE CMRIT**
-
-Real-time phishing detection system protecting users from malicious websites.
-
-- End-to-end ML pipeline using **LightGBM** for URL classification
-- Custom **Chrome extension** with real-time monitoring and instant security alerts
-- RESTful API using **FastAPI** for seamless integration
-
-**Impact:** Real-time protection with instant threat detection  
-**Tech Stack:** `Python` `FastAPI` `LightGBM` `Scikit-learn` `JavaScript` `Chrome APIs`
-
----
-
-### 📄 Resume Parser & Analysis System
-
-Intelligent resume analysis with automatic categorization and job recommendations.
-
-- NLP-powered information extraction from PDF/TXT files
-- Automatic category classification and job recommendation engine
-- Skills extraction and candidate matching using ML algorithms
-
-**Impact:** Streamlined recruitment through automated screening  
-**Tech Stack:** `Flask` `Random Forest` `NLTK` `Spacy` `TF-IDF` `PyPDF2`
-
----
-
-### 🔥 Algerian Forest Fire Detection
-
-ML system for environmental risk assessment and fire prediction with **98.45% accuracy**.
-
-- Predictive model using **Ridge Regression**
-- Meteorological data processing pipeline and FWI analysis
-- Interactive analytics dashboard with regional risk comparisons
-
-**Impact:** Proactive fire prevention through accurate predictions  
-**Tech Stack:** `Scikit-learn` `Plotly` `Flask` `NumPy` `Ridge Regression`
-
----
-
-### ⚡ EV Charging Demand Predictor
-
-Green energy infrastructure optimization achieving **88% accuracy** on 12,000+ records.
-
-- Demand prediction using **Random Forest & LSTM** neural networks
-- Time-series analysis and feature engineering across 23 variables
-- Visualization dashboard for demand patterns
-
-**Impact:** Optimized charging station placement reducing infrastructure costs  
-**Tech Stack:** `TensorFlow` `Scikit-learn` `Pandas` `LSTM` `Random Forest`
-
----
 
 ## 📊 GitHub Statistics
 
@@ -158,46 +73,6 @@ Green energy infrastructure optimization achieving **88% accuracy** on 12,000+ r
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-**Bachelor of Engineering in Artificial Intelligence & Data Science (Honours)**
-
-KS School of Engineering and Management, Bengaluru
-
-<img src="https://img.shields.io/badge/CGPA-8.9%2F10-success?style=for-the-badge" alt="CGPA"/>
-<img src="https://img.shields.io/badge/Duration-2022--2026-blue?style=for-the-badge" alt="Duration"/>
-
-</div>
-
----
-
-## 📄 Research & Publications
-
-**Comparative Analysis of AI-Based Phishing Website Detection**  
-*2nd International Symposium on Collaborative Informatics (ISCI-2025)* | December 2025
-
-- Comprehensive survey on AI models in cybersecurity applications
-- Focus on minimizing false positives in phishing detection systems
-- Analyzed multiple ML algorithms for threat classification
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Details |
-|:---|:---|
-| 🥇 **Project Exhibition Winner** | Led winning team in Inter-department Exhibition 2025-26 |
-| 🥉 **3rd Place @ IEEE CMRIT** | National Level Project Expo Recognition |
-| 👥 **Team Leadership** | Led 4-member team in HACKATHON-24 & UI/UX Design-Verse |
-| 📝 **Project Lead** | Mini & Major Project Lead |
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -216,7 +91,5 @@ I'm always excited to collaborate on innovative AI/ML projects and explore new o
 </a>
 
 <br/><br/>
-
-### 💭 *"Transforming data into intelligent solutions that make a real-world impact"*
 
 </div>
