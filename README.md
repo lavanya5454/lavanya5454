@@ -1,95 +1,169 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Lavanya+S;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Engineer-blueviolet?style=for-the-badge" alt="Role"/>
-  <img src="https://img.shields.io/badge/CGPA-8.9%2F10-success?style=for-the-badge" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Lavanya%20S&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Deep+Learning+Developer+%F0%9F%94%A5;Building+Intelligent+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_CGPA-8.9%2F10-success?style=for-the-badge&labelColor=1a1a2e&color=16213e" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/📍_Location-Bengaluru%2C%20India-orange?style=for-the-badge&labelColor=1a1a2e&color=e94560" alt="Location"/>
+  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=1a1a2e&color=06d6a0" alt="Status"/>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/1lavanya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://lavanyas1.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
   <a href="mailto:lavanya7055@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/lavanya5454">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </div>
 
 <br/>
 
----
-
-## 🚀 About Me
-
-I'm a passionate AI and Data Science Engineer with hands-on experience in building end-to-end machine learning solutions. I specialize in developing intelligent systems that solve real-world problems, from cybersecurity applications to predictive analytics. Currently focused on building AI-powered cybersecurity defense systems and exploring advanced Deep Learning architectures.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <em>Passionate AI and Data Science Engineer with hands-on experience in building end-to-end ML solutions</em><br/>
+  <em>Specializing in developing intelligent systems that solve real-world problems</em><br/>
+  <em>Currently focused on AI-powered cybersecurity and advanced Deep Learning</em>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 💻 Languages & Core Frameworks
 
-### Data Science & Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-**Core Skills:** Machine Learning • Deep Learning • NLP • Computer Vision • Data Analysis • Model Deployment
+### 🤖 Machine Learning & Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+### 📊 Data Science Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
+
+### 🌐 Web & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### 🎯 Core Expertise
+
+```yaml
+Machine Learning  : Supervised & Unsupervised Learning, Feature Engineering
+Deep Learning     : CNN, RNN, LSTM, Neural Networks
+NLP              : NLTK, Spacy, Transformers, Text Classification
+Computer Vision  : Image Processing, Object Detection
+Data Analysis    : EDA, Data Visualization, Statistical Analysis
+Model Deployment : Flask, FastAPI, REST APIs
+```
 
 </div>
 
----
+<br/>
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lavanya5454&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-
-## 🤝 Let's Connect
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=F8D866&text_color=FFFFFF&ring_color=9370DB" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lavanya5454&theme=tokyonight&hide_border=true&background=0D1117&stroke=9370DB&ring=9370DB&fire=F8D866&currStreakLabel=9370DB&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=9370DB" alt="GitHub Streak"/>
+</div>
 
-I'm always excited to collaborate on innovative AI/ML projects and explore new opportunities!
+<br/>
 
-<a href="mailto:lavanya7055@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/1lavanya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://lavanyas1.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</div>
 
-<br/><br/>
+<br/>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lavanya5454&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<p align="center">
+  <em>Open to innovative AI/ML projects • Research collaborations • Full-time opportunities</em>
+</p>
+
+<div align="center">
+  
+  <a href="mailto:lavanya7055@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/1lavanya/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lavanyas1.netlify.app">
+    <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavanya5454&label=Profile%20Views&color=9370DB&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer" />
 </div>
