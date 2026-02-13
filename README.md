@@ -1,236 +1,151 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██╗      █████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗    ║
-║   ██║     ██╔══██╗██║   ██║██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗   ║
-║   ██║     ███████║██║   ██║███████║██╔██╗ ██║ ╚████╔╝ ███████║   ║
-║   ██║     ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║   ║
-║   ███████╗██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║   ██║   ██║  ██║   ║
-║   ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ║
-║                                                               ║
-║           [ AI ENGINEER • ML ARCHITECT • DATA SCIENTIST ]     ║
-║           [ CYBERSECURITY RESEARCHER • NLP SPECIALIST ]       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+# Lavanya S
+
+**AI & Data Science Engineer** | B.E. in Artificial Intelligence & Data Science (CGPA: 8.9/10)  
+📍 Bengaluru, Karnataka, India | 📧 lavanya7055@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/1lavanya/) | 🌐 [Portfolio](https://lavanyas1.netlify.app) | 💻 [GitHub](https://github.com/lavanya5454)
+
+---
+
+## Professional Summary
+
+Final-year engineering student specializing in Artificial Intelligence and Data Science with hands-on experience in developing end-to-end machine learning solutions. Proven track record of building intelligent systems for cybersecurity, data analysis, and predictive modeling. Passionate about leveraging AI/ML technologies to solve real-world problems and drive data-driven decision-making.
+
+**Core Competencies:** Machine Learning | Deep Learning | Natural Language Processing | Data Analysis | Model Deployment | Python Development
+
+---
+
+## Technical Skills
+
+**Programming Languages:** Python, SQL, JavaScript  
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras, LightGBM, Random Forest, Regression Models  
+**Deep Learning:** ANN, CNN, RNN, LSTM, Neural Networks  
+**NLP:** NLTK, Spacy, Transformers, Hugging Face  
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Data Visualization, Feature Engineering  
+**Web Frameworks:** Flask, FastAPI, Streamlit  
+**Tools & Platforms:** Git/GitHub, Jupyter Notebook, VS Code, PyCharm, Google Colab  
+**Computer Vision:** OpenCV, MediaPipe
+
+---
+
+## Professional Experience
+
+### Data Science Intern | Mevi Technology
+*September 2024 – December 2024 | Remote, Bengaluru*
+
+- Built predictive analytics solutions to address business optimization challenges and improve decision-making processes
+- Designed and implemented end-to-end machine learning pipelines using Python (scikit-learn, NumPy, Pandas)
+- Worked on 10+ datasets implementing classification, clustering, and regression algorithms
+- Delivered actionable insights through data-driven models that enhanced operational efficiency
+
+### Green Skills & AI Intern | Edunet-Shell
+*July 2025 – August 2025 | Remote, Bengaluru*
+
+- Engineered an EV Charging Demand Prediction system to optimize electric vehicle infrastructure planning
+- Implemented Random Forest and LSTM algorithms on 12,000+ charging records across 23 features
+- Achieved 88% prediction accuracy, enabling data-driven charging station placement
+- Contributed to sustainable transportation solutions through advanced ML modeling
+
+---
+
+## Key Projects
+
+### PhishNet - AI-based Phishing Website Detection
+**🏆 Winner - Project Exhibition 2025-26 | 3rd Place @ IEEE CMRIT National Level Competition**
+
+Developed a comprehensive phishing detection system that identifies and alerts users to malicious websites in real-time.
+
+- Built end-to-end ML pipeline using Python and LightGBM to classify URLs as legitimate or malicious
+- Developed a custom Chrome extension that monitors browsing activity and delivers instant security alerts
+- Implemented feature engineering techniques to extract URL characteristics for improved classification
+- **Technologies:** Python, FastAPI, LightGBM, Scikit-learn, JavaScript, Chrome Extension APIs
+
+### Resume Parser & Analysis System
+
+Intelligent web application for automated resume analysis and candidate profiling.
+
+- Developed NLP-powered system to extract key information from PDF/TXT resume files
+- Implemented automatic category classification and job recommendation engine
+- Built machine learning models for skills extraction and candidate matching
+- **Technologies:** Python, Flask, Scikit-learn, PyPDF2, Random Forest, NLTK, Spacy, TF-IDF
+
+### Algerian Forest Fire Detection
+
+Machine learning system for environmental risk assessment and fire prediction.
+
+- Developed predictive model achieving 98.45% accuracy using Ridge Regression
+- Processed meteorological data and fire weather indices (FWI) for comprehensive risk analysis
+- Created interactive analytics dashboard for instant fire risk predictions and regional comparisons
+- **Technologies:** Python, Scikit-learn, NumPy, Plotly, Flask
+
+---
+
+## Education
+
+**Bachelor of Engineering in Artificial Intelligence & Data Science (Honours)**  
+KS School of Engineering and Management, Bengaluru  
+*November 2022 – May 2026*  
+CGPA: 8.9/10
+
+---
+
+## Publications & Research
+
+**Comparative Analysis of AI-Based Phishing Website Detection**  
+*2nd International Symposium on Collaborative Informatics (ISCI-2025)*  
+December 2025
+
+- Conducted comprehensive survey evaluating AI model performance in cybersecurity applications
+- Focused on minimizing false positives in phishing detection systems
+- Presented research findings at international conference
+
+---
+
+## Achievements & Leadership
+
+- **Project Exhibition Winner:** Led winning team in Inter-department Project Exhibition 2025-26
+- **IEEE CMRIT Competition:** Secured 3rd place in National Level Project Expo
+- **Team Leadership:** Led 4-member team in HACKATHON-24 and UI/UX Design-Verse competition
+- **Project Lead:** Served as Mini & Major Project Lead, coordinating cross-functional teams
+
+---
+
+## Certifications
+
+- **Infosys Springboard** - Python Foundation
+- **Mevi Technology** - Data Analytics using Python
+- **Microsoft | TechSaksham** - Applied Artificial Intelligence Practical Implementation
+- **Nasscom** - Generative AI Literacy
+- **Cisco** - Data Analytics Essentials
+- **Coursera** - Fundamentals of CNNs and RNNs
+- **Udemy** - Natural Language Processing
+- **Ditto** - Building next-Gen AI Agents
+- **Data Flair** - Introduction to Machine Learning
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=INITIALIZING+NEURAL+NETWORKS...;TRAINING+DEEP+LEARNING+MODELS...;PARSING+NATURAL+LANGUAGE...;DETECTING+THREATS+IN+REAL-TIME...;OPTIMIZING+ML+PIPELINES...;STATUS%3A+ONLINE+%E2%96%88)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya5454&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavanya5454&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-### `> SYSTEM_STATUS`
+## Contact Information
 
-```python
-class Operative:
-    codename = "LAVANYA_S"
-    clearance_level = "AI_DATA_SCIENCE_ENGINEER"
-    location = "BENGALURU_NODE"
-    mission_objective = "TRANSFORM_DATA_INTO_INTELLIGENCE"
-    
-    expertise = {
-        "neural_warfare": ["Deep Learning", "CNNs", "RNNs", "LSTM"],
-        "pattern_recognition": ["Machine Learning", "Random Forest", "LightGBM"],
-        "linguistic_analysis": ["NLP", "NLTK", "Transformers", "Spacy"],
-        "data_ops": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
-        "cyber_defense": ["Phishing Detection", "Threat Analysis"]
-    }
-    
-    active_operations = [
-        "PhishNet: Real-time URL threat classification",
-        "Resume Intelligence: Automated profiling system",
-        "Fire Prediction: Environmental risk assessment"
-    ]
-```
+I'm open to collaboration opportunities, research projects, and full-time positions in AI/ML and Data Science.
+
+- **Email:** lavanya7055@gmail.com
+- **LinkedIn:** [linkedin.com/in/1lavanya](https://www.linkedin.com/in/1lavanya/)
+- **Portfolio:** [lavanyas1.netlify.app](https://lavanyas1.netlify.app)
+- **Location:** Bengaluru, Karnataka, India
 
 ---
 
-### `> ACCESS_POINTS`
-
-```bash
-$ connect --secure-channels
-```
-
-[![SECURE_MAIL](https://img.shields.io/badge/SECURE_MAIL-lavanya7055%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:lavanya7055@gmail.com)
-[![NETWORK_NODE](https://img.shields.io/badge/NETWORK_NODE-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/1lavanya/)
-[![MAINFRAME](https://img.shields.io/badge/MAINFRAME-Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=00FF00)](https://lavanyas1.netlify.app)
-[![CODE_VAULT](https://img.shields.io/badge/CODE_VAULT-GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/lavanya5454)
-
----
-
-### `> ARSENAL`
-
-```
-┌─[ PROGRAMMING_CORES ]
-├─> Python █████████████████████ 95%
-├─> SQL ██████████████████░░░░░ 85%
-└─> JavaScript ███████████░░░░░░░░░░ 60%
-
-┌─[ NEURAL_FRAMEWORKS ]
-├─> TensorFlow ███████████████████ 90%
-├─> PyTorch ██████████████████░░ 88%
-├─> Scikit-learn █████████████████████ 95%
-└─> Keras ████████████████░░░░ 80%
-
-┌─[ DATA_WEAPONS ]
-├─> Pandas █████████████████████ 98%
-├─> NumPy ████████████████████░ 92%
-├─> Matplotlib ████████████████░░░░ 85%
-└─> Plotly ██████████████████░░ 87%
-
-┌─[ DEPLOYMENT_SYSTEMS ]
-├─> Flask ████████████████░░░░ 80%
-├─> FastAPI ███████████████░░░░░ 78%
-└─> Streamlit ██████████████████░░ 85%
-
-┌─[ SPECIALIZED_TOOLS ]
-├─> NLTK • Spacy • Transformers • Hugging Face
-├─> OpenCV • MediaPipe • Computer Vision
-└─> Git • Docker • VS Code • Jupyter
-```
-
----
-
-### `> CLASSIFIED_OPERATIONS`
-
-#### **[OPERATION_PHISHNET]** `STATUS: MISSION_SUCCESS`
-```diff
-+ OBJECTIVE: Neutralize phishing threats in real-time
-+ METHOD: LightGBM classification + Chrome extension deployment
-+ RESULT: 🏆 Winner Project Exhibition 2025-26 | 3rd Place IEEE CMRIT
-! THREAT_LEVEL: Real-time URL scanning and instant alerts
-```
-**TECH_STACK:** `Python` `FastAPI` `LightGBM` `JavaScript` `Chrome_APIs`
-
----
-
-#### **[OPERATION_RESUME_INTEL]** `STATUS: ACTIVE`
-```diff
-+ OBJECTIVE: Automated intelligence extraction from personnel files
-+ METHOD: NLP-powered parsing with ML classification
-! CAPABILITIES: Category detection • Job matching • Data extraction
-```
-**TECH_STACK:** `Flask` `Random_Forest` `NLTK` `Spacy` `PyPDF2`
-
----
-
-#### **[OPERATION_FIREWATCH]** `STATUS: OPERATIONAL`
-```diff
-+ OBJECTIVE: Predict environmental fire threats
-+ METHOD: Ridge Regression with 98.45% accuracy
-! COVERAGE: Real-time risk assessment • Regional analysis
-```
-**TECH_STACK:** `Scikit-learn` `Plotly` `Flask` `NumPy`
-
----
-
-### `> FIELD_EXPERIENCE`
-
-```
-[INFILTRATION_RECORD]
-
-🔹 MEVI_TECHNOLOGY_DIVISION
-   ├─ Duration: SEP.2024 - DEC.2024
-   ├─ Role: Data_Science_Operative
-   ├─ Missions: 10+ datasets compromised
-   └─ Impact: Predictive analytics deployment
-
-🔹 EDUNET_SHELL_ALLIANCE
-   ├─ Duration: JUL.2025 - AUG.2025
-   ├─ Role: Green_AI_Specialist
-   ├─ Achievement: 88% prediction accuracy
-   └─ Impact: EV infrastructure optimization
-```
-
----
-
-### `> SYSTEM_METRICS`
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=lavanya5454&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=lavanya5454&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&dates=00FF00&sideLabels=00FF00)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya5454&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00)
-
-</div>
-
----
-
-### `> ACHIEVEMENT_LOG`
-
-```yaml
-CLEARANCE_UPGRADES:
-  - designation: HACKATHON-24 Squad Leader
-    status: COMPLETED
-  
-  - designation: UI/UX Design-Verse Commander
-    status: COMPLETED
-  
-  - designation: Project Exhibition Champion
-    status: VICTORY_CONFIRMED
-  
-  - designation: IEEE CMRIT 3rd Position
-    status: MEDAL_ACQUIRED
-  
-  - designation: Research Publication ISCI-2025
-    status: PUBLISHED
-    classification: "AI-based Phishing Detection Analysis"
-```
-
----
-
-### `> CERTIFICATION_VAULT`
-
-<details>
-<summary><code>[ CLICK_TO_DECRYPT_CREDENTIALS ]</code></summary>
-
-```
-✓ INFOSYS_SPRINGBOARD .............. Python Foundation
-✓ MEVI_TECHNOLOGY .................. Data Analytics [Python]
-✓ MICROSOFT_TECHSAKSHAM ............ Applied AI Implementation
-✓ NASSCOM .......................... Generative AI Literacy
-✓ CISCO ............................ Data Analytics Essentials
-✓ COURSERA ......................... CNNs & RNNs Fundamentals
-✓ UDEMY ............................ Natural Language Processing
-✓ DITTO ............................ Next-Gen AI Agents
-✓ DATAFLAIR ........................ Machine Learning Intro
-```
-
-</details>
-
----
-
-### `> CURRENT_MISSION`
-
-```
-[PRIMARY_OBJECTIVES]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▸ Building AI-powered cybersecurity defense systems
-▸ Researching advanced Deep Learning architectures
-▸ Developing intelligent threat detection algorithms
-▸ Open to collaboration on high-impact ML/AI missions
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[MISSION_STATEMENT]
-> "Transforming raw data into weaponized intelligence"
-```
-
----
-
-```
-┌──(lavanya@ai-terminal)─[~]
-└─$ echo "Thanks for visiting. Stay secure. Stay curious."
-
-█▓▒░ END_TRANSMISSION ░▒▓█
-```
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=lavanya5454&color=00FF00&style=flat-square&label=SURVEILLANCE_COUNTER)
-
-</div>
+*Last Updated: February 2026*
